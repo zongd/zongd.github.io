@@ -1,10 +1,10 @@
 # Site settings
 title: Zd Blog
-SEOTitle: 宗道的博客 | Zd Blog
+SEOTitle: 宗道的博客 | 设计人生
 header-img: img/home-bg.jpg
-email: idonald@live.com
+email: #
 description: "这里是 宗道 的个人博客。"
-keyword: "认知学徒"
+keyword: "蔡宗道、zd、认知学徒、设计、心理学、终身学习"
 url: "https://zongd.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -90,6 +90,9 @@ friends: [
     #     title: "example",
     #     href: "http://abc.域名后缀"
     # },{
+        title: "宗道",
+        href: "http://www.caizongdao.com"
+    },{
         title: "Apple",
         href: "http://www.apple.com"
     }
