@@ -4,7 +4,7 @@ SEOTitle: 宗道的博客 | Zd Blog
 header-img: img/home-bg.jpg
 email: idonald@live.com
 description: "这里是 宗道 的个人博客。"
-keyword: "设计"
+keyword: "认知学徒"
 url: "https://zongd.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -16,17 +16,17 @@ RSS: false
 # zhihu_username:     
 github_username:    zongd
 # twitter_username:   
-# facebook_username:  huxpro
+# facebook_username:  yourname
 # linkedin_username:  firstname-lastname-idxxxx
-
+# jianshu_username:  jianshu_id
 
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
-permalink: pretty
-paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+permalink: pretty              # 
+paginate: 10              # 10 pieces of articles each page
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]     # ignore designated files
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
@@ -48,10 +48,10 @@ kramdown:
 
 
 # Disqus settings
-# disqus_username: hux
+# disqus_username: user_name
 
 # Netease setttings
-netease_comment: false
+# netease_comment: false
 
 
 
@@ -60,15 +60,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-# ga_domain: huangxuan.me
+# ga_track_id: 'id'            # Format: UA-xxxxxx-xx
+# ga_domain: user_name
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "信息、知识、认知<br>离开之前，留下一点"
-# sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "信息、知识、认知<br>博观而约取"
+# sidebar-avatar: /img/avatar-zd.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
